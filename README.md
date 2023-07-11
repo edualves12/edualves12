@@ -4,7 +4,7 @@
 
 <h3 align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
   
 </h3>
 
