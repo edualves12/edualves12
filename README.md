@@ -12,9 +12,10 @@
 
 - 🌱 I’m currently learning **Typescript, Vue, React, Sequelize and many others**
 
-- 💬 Ask me about **Coding**
+- 💬 You can ask me anything realted to **Coding**
 
 - 📫 How to reach me: **edualves884@gmail.com**
+
 #
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
