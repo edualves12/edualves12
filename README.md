@@ -2,9 +2,20 @@
 <h1 align="center">Hi 👋, I'm Eduardo Alves</h1>
 <h3 align="center">A devoted full-stack developer from Portugal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edualves12&label=Profile%20views&color=0e75b6&style=flat" alt="edualves12" /> </p>
+<h3 align="center">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edualves12" alt="edualves12" /></a> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=edualves12&label=Profile%20views&color=0e75b6&style=flat" alt="edualves12" /> 
+</p>
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edualves12" alt="edualves12" />
+  </a> 
+</p>
 
 - 🔭 I’m currently studying on **ESMAD**
 
@@ -93,6 +104,6 @@
 </p>
 #
 <h3 align="left">Stats:</h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=edualves12&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
