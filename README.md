@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=edualves12&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edualves12&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+[![](https://visitcount.itsvg.in/api?id=TiagoRibeiro25&icon=2&color=0)](https://visitcount.itsvg.in)
