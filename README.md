@@ -104,7 +104,7 @@
   </a> 
 </p>
 
-<p align="center">
+<p align="center" style="display:flex; justify-content: space-between;">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=edualves12&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
