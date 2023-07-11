@@ -9,14 +9,10 @@
 </h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=edualves12&label=Profile%20views&color=0e75b6&style=flat" alt="edualves12" /> 
-</p>
-
-<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edualves12" alt="edualves12" />
   </a> 
 </p>
-
+#
 - 🔭 I’m currently studying on **ESMAD**
 
 - 🌱 I’m currently learning **Typescript, Vue, React, Sequelize and many others**
@@ -111,6 +107,9 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=edualves12&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
+</p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=edualves12&label=Profile%20views&color=0e75b6&style=flat" alt="edualves12" /> 
 </p>
 
 
