@@ -103,7 +103,12 @@
   </a>
 </p>
 #
-<h3 align="center">Stats:</h3>
+<h3 align="left">Stats:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=edualves12&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=edualves12&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+</p>
+
 
