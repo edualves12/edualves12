@@ -12,7 +12,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edualves12" alt="edualves12" />
   </a> 
 </p>
+
 #
+
 - 🔭 I’m currently studying on **ESMAD**
 
 - 🌱 I’m currently learning **Typescript, Vue, React, Sequelize and many others**
