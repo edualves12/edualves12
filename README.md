@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Typescript, Vue, React, Sequelize and many others**
 
-- 💬 You can ask me anything realted to **Coding**
+- 💬 You can ask me anything related to **Coding**
 
 - 📫 How to reach me: **edualves884@gmail.com**
 
