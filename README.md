@@ -91,11 +91,14 @@
     <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> 
   </a> 
     <a href="https://swagger.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="xd" width="40" height="40"/> 
+    <img src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="swagger" width="40" height="40"/> 
   </a>
     </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="xd" width="40" height="40"/> 
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="graphql" width="40" height="40"/> 
   </a>
 </p>
 
