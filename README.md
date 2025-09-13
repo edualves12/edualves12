@@ -8,9 +8,9 @@
   
 </h3>
 
-- 🔭 I’m currently studying on **ESMAD**
+- 🔭 I’m currently working at **FREJEN - Wise Solutions**
 
-- 🌱 I’m currently learning **Typescript, Vue, React, Sequelize and many others**
+- 🌱 React, Typescript and JS **dev**
 
 - 💬 You can ask me anything related to **Coding**
 
